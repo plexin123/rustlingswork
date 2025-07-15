@@ -1,5 +1,6 @@
 fn main() {
     // TODO: Change the line below to fix the compiler error.
+    //in here I am just defining a variable not using a mut
     let x = 0;
 
     if x == 10 {
